@@ -3,20 +3,26 @@
         {
             "id": 1,
             "nama": "Dhea",
-            "alamat": "Purwokerto",
-            "nohp": "081215172011"
+            "nis": "310311",
+            "jnskelamin": "perempuan",
+            "jurusan": "RPL",
+            "foto": ""
         },
         {
             "id": 2,
             "nama": "Fesa",
-            "alamat": "Jakarta",
-            "nohp": "081215172000"
+            "nis": "310390",
+            "jnskelamin": "perempuan",
+            "jurusan": "TKJ",
+            "foto": ""
         },
         {
             "id": 3,
             "nama": "Athallah",
-            "alamat": "Bali",
-            "nohp": "081215172111"
+            "nis": "310376",
+            "jnskelamin": "Laki-laki",
+            "jurusan": "TJA",
+            "foto": ""
         }
     ]
 }

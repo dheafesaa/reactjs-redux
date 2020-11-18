@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Dhea",
+            "alamat": "Purwokerto",
+            "nohp": "081215172011"
+        },
+        {
+            "id": 2,
+            "nama": "Fesa",
+            "alamat": "Jakarta",
+            "nohp": "081215172000"
+        },
+        {
+            "id": 3,
+            "nama": "Athallah",
+            "alamat": "Bali",
+            "nohp": "081215172111"
+        }
+    ]
+}
